@@ -1,0 +1,11 @@
+11/16/2012
+
+v2.1.2
+
+-Matrix WTEA Data Collection Form
+	There are now indicators throughout the form. 
+	You now cannot run the macro unless certain conditions are met. On the front page, you can see these conditions and their statuses. 
+	"Not Quite" is allowed on the Outdoor Lighting and Indoor Lighting page, those lights will just not be processed on the other forms. However, "Not Quite" is not allowed on any other pages.
+	
+-WTEA Pepco form
+	R1 Sum 'Assessment Overview' now fills itself out.
