@@ -3,7 +3,10 @@ Matrix Pepco file generation
 
 This project is designed to help Matrix Energy Services produce their WTEA reports at a higher and more productive speed.  
 
-11/27/2012
+12/3/2012  
+-Work Order has been updated, more compatible with Andrey.
+
+11/27/2012  
 -Fixed several bugs that came along v2.2.   
 -Added new work order and materials form list   
 
